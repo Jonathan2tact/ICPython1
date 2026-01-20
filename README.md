@@ -13,7 +13,8 @@ Regular text
 - Hello
 - Goodbye
 
-  *italics*
+  *Italics*
+  
   **bold**
 
 [link](https://docs.google.com/document/d/1Cj0ok0Mbgju9No-8DA3paqcOJ-WNUqa9a5KprzwDdtQ/edit?tab=t.0#heading=h.c2hypk7py91k)
